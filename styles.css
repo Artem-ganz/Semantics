@@ -1,0 +1,25 @@
+.logo {
+    text-align: center;
+}
+nav {
+    overflow: hidden;
+    background-color: rgb(69, 67, 67);
+}
+nav a {
+    float: left;
+    color: white;
+    padding: 10px 20px;
+    text-align:center;
+    font-size: 17px;
+    text-decoration: none;
+    border: 2px solid black;
+    margin-right: 15px;
+}
+nav a:hover {
+    background-color: rgb(83, 97, 93);
+    color: black;
+}
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
